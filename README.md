@@ -1,4 +1,4 @@
-# Two Sampl T-test Lab
+# Two Sample T-test Lab
 
 ## Introduction
 
